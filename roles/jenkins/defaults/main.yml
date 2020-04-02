@@ -30,8 +30,8 @@ jenkins_plugin_timeout: 30
 jenkins_plugins_install_dependencies: true
 jenkins_updates_url: "https://updates.jenkins.io"
 
-jenkins_admin_username: admin
-jenkins_admin_password: admin
+jenkins_admin_username: Admin
+jenkins_admin_password: 123
 jenkins_admin_password_file: ""
 #Jenkins will be running from jenkins user
 jenkins_process_user: jenkins
